@@ -1,0 +1,29 @@
+form {
+    margin-top: 1rem;
+}
+
+form div {
+    margin-top: 1rem;
+}
+
+label {
+    display: block
+}
+
+h3{
+    display: inline-block   ;
+}
+
+.inline {
+    display: inline;
+}
+
+.btn{
+    margin-left: 5.5rem;
+}
+
+.close{
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 2rem;
+}
